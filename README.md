@@ -1,4 +1,4 @@
-# Netflix-Analysis
+# Netflix-Analysis🍿
 Content Analysis and Recommendations for Growth of Netflix
 1. Analyzed Netflix data to identify content trends and growth opportunities
 2. Used Python, Pandas, Numpy, Seaborn, and Matplotlib for data cleaning and EDA
